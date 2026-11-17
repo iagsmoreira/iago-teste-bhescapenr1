@@ -123,25 +123,25 @@
       "height": 256
     },
     "assets/decks/deck-1.deck.json": {
-      "inputHash": "c9291e4ac21c491b",
+      "inputHash": "75cc2cfa54d683de",
       "file": "thumbnails/assets/decks/deck-1.deck.json.webp",
       "width": 174,
       "height": 256
     },
     "assets/decks/deck-2.deck.json": {
-      "inputHash": "7edeabf39e2d9ef8",
+      "inputHash": "0f31ec9c9ef8f87e",
       "file": "thumbnails/assets/decks/deck-2.deck.json.webp",
       "width": 174,
       "height": 256
     },
     "assets/textures/decks/deck-1/sheet-1.webp": {
-      "inputHash": "256a1945dbca365d",
+      "inputHash": "c4a2e4a38826cb18",
       "file": "thumbnails/assets/textures/decks/deck-1/sheet-1.webp.webp",
       "width": 256,
       "height": 143
     },
     "assets/textures/decks/deck-2/sheet-1.webp": {
-      "inputHash": "58ba0bca4b53dbe8",
+      "inputHash": "378138bb8a4b579d",
       "file": "thumbnails/assets/textures/decks/deck-2/sheet-1.webp.webp",
       "width": 256,
       "height": 179
