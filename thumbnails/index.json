@@ -2,6 +2,12 @@
   "version": 1,
   "rendererVersion": 1,
   "entries": {
+    "Captura de tela 2026-11-17 101220.webp": {
+      "inputHash": "4122a07d197335ad",
+      "file": "thumbnails/Captura de tela 2026-11-17 101220.webp.webp",
+      "width": 256,
+      "height": 128
+    },
     "Cards/Ocorrencias/Bonus desestimulador.webp": {
       "inputHash": "515d9411904f90b5",
       "file": "thumbnails/Cards/Ocorrencias/Bonus desestimulador.webp.webp",
@@ -175,6 +181,12 @@
       "file": "thumbnails/originals/Bonus desestimulador.jpg.webp",
       "width": 171,
       "height": 256
+    },
+    "originals/Captura de tela 2026-11-17 101220.png": {
+      "inputHash": "1f7fd6dafb968467",
+      "file": "thumbnails/originals/Captura de tela 2026-11-17 101220.png.webp",
+      "width": 256,
+      "height": 128
     },
     "originals/Controle da Inatividade.jpg": {
       "inputHash": "a18fe5b20c2ea370",
