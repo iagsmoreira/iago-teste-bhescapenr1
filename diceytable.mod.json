@@ -2,13 +2,14 @@
   "schemaVersion": "1.0",
   "id": "iago-teste",
   "name": "Iago Teste",
-  "version": "0.1.2",
+  "version": "0.1.21",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
     "script": "scripts/main.js"
   },
   "assets": [
+    "Captura de tela 2026-11-17 101220.webp",
     "Cards/Ocorrencias/Bonus desestimulador.webp",
     "Cards/Ocorrencias/Controle da Inatividade.webp",
     "Cards/Ocorrencias/Escala Imprevisivel.webp",
@@ -193,6 +194,20 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-11-17T13:14:36.207Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-6ff0f7cb-b0c7-453e-8c02-552106d5ecd2",
+      "paths": [
+        "Captura de tela 2026-11-17 101220.webp",
+        "originals/Captura de tela 2026-11-17 101220.png"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-17T13:56:36.198Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-17T13:56:36.198Z",
         "signedName": "Iago Moreira"
       }
     }
