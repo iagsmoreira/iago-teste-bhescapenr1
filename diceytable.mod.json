@@ -34,7 +34,10 @@
     "assets/decks/deck-2.deck.json",
     "assets/textures/decks/deck-1/sheet-1.webp",
     "assets/textures/decks/deck-2/sheet-1.webp",
-    "data/cardSchema.json"
+    "data/cardSchema.json",
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
@@ -200,5 +203,16 @@
     "min": 1,
     "max": 10
   },
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0.07211131855681614,
+        "y": 0,
+        "w": 0.886080393189398,
+        "h": 1
+      }
+    }
+  ],
+  "coverImage": "media/cover.webp"
 }

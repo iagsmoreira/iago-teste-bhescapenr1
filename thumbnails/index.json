@@ -146,6 +146,24 @@
       "width": 256,
       "height": 179
     },
+    "media/cover-thumb.webp": {
+      "inputHash": "4bc034a71d4808ef",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "cbfc1db0262317ba",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "71d0572be451e2ba",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
     "originals/Aumento de prazo.jpg": {
       "inputHash": "d825f915b48c982a",
       "file": "thumbnails/originals/Aumento de prazo.jpg.webp",
