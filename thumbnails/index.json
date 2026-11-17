@@ -129,7 +129,7 @@
       "height": 256
     },
     "assets/decks/deck-2.deck.json": {
-      "inputHash": "0f31ec9c9ef8f87e",
+      "inputHash": "be5b841dec32205c",
       "file": "thumbnails/assets/decks/deck-2.deck.json.webp",
       "width": 174,
       "height": 256
@@ -141,10 +141,16 @@
       "height": 143
     },
     "assets/textures/decks/deck-2/sheet-1.webp": {
-      "inputHash": "378138bb8a4b579d",
+      "inputHash": "2e2d898b87459b05",
       "file": "thumbnails/assets/textures/decks/deck-2/sheet-1.webp.webp",
-      "width": 256,
-      "height": 179
+      "width": 229,
+      "height": 256
+    },
+    "assets/textures/decks/deck-2/sheet-2.webp": {
+      "inputHash": "fb20bbfc596754d0",
+      "file": "thumbnails/assets/textures/decks/deck-2/sheet-2.webp.webp",
+      "width": 183,
+      "height": 256
     },
     "media/cover-thumb.webp": {
       "inputHash": "4bc034a71d4808ef",

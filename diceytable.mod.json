@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "iago-teste",
   "name": "Iago Teste",
-  "version": "0.1.247",
+  "version": "0.1.248",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -34,6 +34,7 @@
     "assets/decks/deck-2.deck.json",
     "assets/textures/decks/deck-1/sheet-1.webp",
     "assets/textures/decks/deck-2/sheet-1.webp",
+    "assets/textures/decks/deck-2/sheet-2.webp",
     "data/cardSchema.json",
     "media/cover-thumb.webp",
     "media/cover.webp",
@@ -193,6 +194,34 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-11-17T13:14:36.207Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-5eb1956e-3521-4a8c-8d35-84760f197fdd",
+      "paths": [
+        "assets/decks/deck-2/cards/008-aumento-de-equipe.webp",
+        "assets/decks/deck-2/cards/009-mudanca-de-escala.webp",
+        "assets/decks/deck-2/cards/010-participac-a-o-dos-trabalhadores-nas-dec.webp",
+        "assets/decks/deck-2/cards/011-playbook-base-de-conhecimento.webp",
+        "assets/decks/deck-2/cards/012-redesenho-de-processo.webp",
+        "assets/decks/deck-2/cards/013-redistribuicao-de-tarefas.webp",
+        "assets/decks/deck-2/cards/014-redistribuic-a-o-tempora-ria-de-capacida.webp",
+        "assets/decks/deck-2/cards/015-reducao-de-demandas.webp",
+        "assets/decks/deck-2/cards/016-reducao-de-meta.webp",
+        "assets/decks/deck-2/cards/017-repriorizac-a-o.webp",
+        "assets/decks/deck-2/cards/018-reuniao-com-diretoria.webp",
+        "assets/decks/deck-2/cards/019-revisao-de-criterios-de-avaliacao-de-des.webp",
+        "assets/decks/deck-2/cards/020-revisao-de-jornada.webp",
+        "assets/decks/deck-2/cards/021-revisao-de-salarios-e-gratificacoes.webp",
+        "assets/decks/deck-2/cards/022-revisao-dos-indicadores.webp",
+        "assets/decks/deck-2/cards/023-treinamento-de-liderancas.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-17T16:44:00.534Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-17T16:44:00.534Z",
         "signedName": "Iago Moreira"
       }
     }
