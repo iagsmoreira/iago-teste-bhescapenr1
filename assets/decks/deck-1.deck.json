@@ -7,8 +7,8 @@
     "columns": 5,
     "rows": 2,
     "cardCount": 10,
-    "cardWidthPx": 512,
-    "cardHeightPx": 716
+    "cardWidthPx": 717,
+    "cardHeightPx": 1002
   },
   "uniqueBacks": false,
   "back": {
