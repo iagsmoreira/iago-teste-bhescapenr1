@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "breakingVersion": 1,
+  "name": "Atributos_Ocorrencias",
+  "source": {
+    "kind": "static",
+    "cardsPath": "assets/cards/iago-teste.cards.json"
+  },
+  "fields": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "text"
+    },
+    {
+      "key": "atributo1",
+      "label": "Atributo 1",
+      "type": "text"
+    },
+    {
+      "key": "valor",
+      "label": "Valor",
+      "type": "text"
+    },
+    {
+      "key": "atributo2",
+      "label": "Atributo 2",
+      "type": "text"
+    },
+    {
+      "key": "valor2",
+      "label": "Valor 2",
+      "type": "text"
+    },
+    {
+      "key": "atributo3",
+      "label": "Atributo 3",
+      "type": "text"
+    },
+    {
+      "key": "valor3",
+      "label": "Valor 3",
+      "type": "text"
+    }
+  ],
+  "roles": {
+    "key": "nome",
+    "title": "atributo1"
+  }
+}

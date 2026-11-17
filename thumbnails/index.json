@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "Cards/Ocorrencias/Bonus desestimulador.webp": {
+      "inputHash": "515d9411904f90b5",
+      "file": "thumbnails/Cards/Ocorrencias/Bonus desestimulador.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/Controle da Inatividade.webp": {
+      "inputHash": "de407e429573e729",
+      "file": "thumbnails/Cards/Ocorrencias/Controle da Inatividade.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/Escala Imprevisivel.webp": {
+      "inputHash": "ed49135c877fcee7",
+      "file": "thumbnails/Cards/Ocorrencias/Escala Imprevisivel.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/Falta de documentacao.webp": {
+      "inputHash": "1ccf992048ee083e",
+      "file": "thumbnails/Cards/Ocorrencias/Falta de documentacao.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/Pausas inviaveis.webp": {
+      "inputHash": "0f9b1e7db017ee4f",
+      "file": "thumbnails/Cards/Ocorrencias/Pausas inviaveis.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/Pressao pra responder a noite.webp": {
+      "inputHash": "f701e9c822ac65d2",
+      "file": "thumbnails/Cards/Ocorrencias/Pressao pra responder a noite.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/Urgencias sucessivas.webp": {
+      "inputHash": "42508c8cf40fb300",
+      "file": "thumbnails/Cards/Ocorrencias/Urgencias sucessivas.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/metas sem considerar capacidade.webp": {
+      "inputHash": "e106fc9d5bb288bb",
+      "file": "thumbnails/Cards/Ocorrencias/metas sem considerar capacidade.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/sernio sobrecarregado.webp": {
+      "inputHash": "7479b6837c4979ff",
+      "file": "thumbnails/Cards/Ocorrencias/sernio sobrecarregado.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Ocorrencias/tudo é prioridade.webp": {
+      "inputHash": "6c9c2cc43a65a58c",
+      "file": "thumbnails/Cards/Ocorrencias/tudo é prioridade.webp.webp",
+      "width": 171,
+      "height": 256
+    },
+    "Cards/Recursos/Aumento de prazo.webp": {
+      "inputHash": "8148b27682f336ae",
+      "file": "thumbnails/Cards/Recursos/Aumento de prazo.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Recursos/Devolutiva das sugestões recebidas.webp": {
+      "inputHash": "d52825758e9212fb",
+      "file": "thumbnails/Cards/Recursos/Devolutiva das sugestões recebidas.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Recursos/Escuta.webp": {
+      "inputHash": "6cb36ea5cc60a355",
+      "file": "thumbnails/Cards/Recursos/Escuta.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Recursos/Mapeamento de carga de trabalho.webp": {
+      "inputHash": "0f69b0e48839457f",
+      "file": "thumbnails/Cards/Recursos/Mapeamento de carga de trabalho.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Recursos/Mapeamento de processos.webp": {
+      "inputHash": "06a3ecaf5b03f70d",
+      "file": "thumbnails/Cards/Recursos/Mapeamento de processos.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Recursos/Observação do trabalho real.webp": {
+      "inputHash": "15a4f44dc388366f",
+      "file": "thumbnails/Cards/Recursos/Observação do trabalho real.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Recursos/Pausa obrigatória.webp": {
+      "inputHash": "fb96b6e47043a7f0",
+      "file": "thumbnails/Cards/Recursos/Pausa obrigatória.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Recursos/Reunião de alinhamento.webp": {
+      "inputHash": "a18eea53ca20afad",
+      "file": "thumbnails/Cards/Recursos/Reunião de alinhamento.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Verso Invertido.webp": {
+      "inputHash": "30e189b48b382d9f",
+      "file": "thumbnails/Cards/Verso Invertido.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "Cards/Verso.webp": {
+      "inputHash": "fe88c658bbc19605",
+      "file": "thumbnails/Cards/Verso.webp.webp",
+      "width": 174,
+      "height": 256
+    },
+    "assets/decks/deck-1.deck.json": {
+      "inputHash": "c9291e4ac21c491b",
+      "file": "thumbnails/assets/decks/deck-1.deck.json.webp",
+      "width": 174,
+      "height": 256
+    },
+    "assets/decks/deck-2.deck.json": {
+      "inputHash": "7edeabf39e2d9ef8",
+      "file": "thumbnails/assets/decks/deck-2.deck.json.webp",
+      "width": 174,
+      "height": 256
+    },
+    "assets/textures/decks/deck-1/sheet-1.webp": {
+      "inputHash": "256a1945dbca365d",
+      "file": "thumbnails/assets/textures/decks/deck-1/sheet-1.webp.webp",
+      "width": 256,
+      "height": 143
+    },
+    "assets/textures/decks/deck-2/sheet-1.webp": {
+      "inputHash": "58ba0bca4b53dbe8",
+      "file": "thumbnails/assets/textures/decks/deck-2/sheet-1.webp.webp",
+      "width": 256,
+      "height": 179
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "4bc034a71d4808ef",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "cbfc1db0262317ba",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "71d0572be451e2ba",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "originals/Aumento de prazo.jpg": {
+      "inputHash": "d825f915b48c982a",
+      "file": "thumbnails/originals/Aumento de prazo.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Bonus desestimulador.jpg": {
+      "inputHash": "cf96504606b826df",
+      "file": "thumbnails/originals/Bonus desestimulador.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/Controle da Inatividade.jpg": {
+      "inputHash": "a18fe5b20c2ea370",
+      "file": "thumbnails/originals/Controle da Inatividade.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/Devolutiva das sugestões recebidas.jpg": {
+      "inputHash": "23901c44e8e8ff33",
+      "file": "thumbnails/originals/Devolutiva das sugestões recebidas.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Escala Imprevisivel.jpg": {
+      "inputHash": "e2c42b3e16084b99",
+      "file": "thumbnails/originals/Escala Imprevisivel.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/Escuta.jpg": {
+      "inputHash": "b0cf8af211540e68",
+      "file": "thumbnails/originals/Escuta.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Falta de documentacao.jpg": {
+      "inputHash": "52edd1203070447a",
+      "file": "thumbnails/originals/Falta de documentacao.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/Mapeamento de carga de trabalho.jpg": {
+      "inputHash": "1db48dfa3dd1c3f3",
+      "file": "thumbnails/originals/Mapeamento de carga de trabalho.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Mapeamento de processos.jpg": {
+      "inputHash": "2b7fd4bb7e9bedb4",
+      "file": "thumbnails/originals/Mapeamento de processos.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Observação do trabalho real.jpg": {
+      "inputHash": "eedaaaf1cb9ad1af",
+      "file": "thumbnails/originals/Observação do trabalho real.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Pausa obrigatória.jpg": {
+      "inputHash": "292db4afa3c9218a",
+      "file": "thumbnails/originals/Pausa obrigatória.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Pausas inviaveis.jpg": {
+      "inputHash": "177abf05f5076e56",
+      "file": "thumbnails/originals/Pausas inviaveis.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/Pressao pra responder a noite.jpg": {
+      "inputHash": "1887f16ed7a6991a",
+      "file": "thumbnails/originals/Pressao pra responder a noite.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/Reunião de alinhamento.jpg": {
+      "inputHash": "438339e1fbeab4d6",
+      "file": "thumbnails/originals/Reunião de alinhamento.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Urgencias sucessivas.jpg": {
+      "inputHash": "7580099521082591",
+      "file": "thumbnails/originals/Urgencias sucessivas.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/Verso Invertido.jpg": {
+      "inputHash": "d0f56a81dc2f1520",
+      "file": "thumbnails/originals/Verso Invertido.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/Verso.jpg": {
+      "inputHash": "0739f5aa787057ce",
+      "file": "thumbnails/originals/Verso.jpg.webp",
+      "width": 174,
+      "height": 256
+    },
+    "originals/metas sem considerar capacidade.jpg": {
+      "inputHash": "fbdc0a9828839983",
+      "file": "thumbnails/originals/metas sem considerar capacidade.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/sernio sobrecarregado.jpg": {
+      "inputHash": "9823e99f791a0401",
+      "file": "thumbnails/originals/sernio sobrecarregado.jpg.webp",
+      "width": 171,
+      "height": 256
+    },
+    "originals/tudo é prioridade.jpg": {
+      "inputHash": "5c96c8cf1ecab90b",
+      "file": "thumbnails/originals/tudo é prioridade.jpg.webp",
+      "width": 171,
+      "height": 256
+    }
+  }
+}

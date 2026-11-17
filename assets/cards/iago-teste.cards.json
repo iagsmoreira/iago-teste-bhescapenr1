@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "data": {
+        "atributo": "demanda",
+        "valor": "6",
+        "nome": "pausas_inviaveis",
+        "atributo1": "demanda",
+        "atributo2": "autonomia",
+        "valor2": "3",
+        "atributo3": "Apoio",
+        "valor3": "2"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-2",
+        "valor": "6",
+        "nome": "escala_imprevisivel",
+        "atributo1": "autonomia",
+        "atributo2": "apoio",
+        "valor2": "3",
+        "atributo3": "cultura",
+        "valor3": "2"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-3",
+        "valor": "5",
+        "nome": "controle_inatividade",
+        "atributo1": "cultura",
+        "atributo2": "autonomia",
+        "valor2": "4",
+        "atributo3": "demanda",
+        "valor3": "2"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-4",
+        "valor": "5",
+        "nome": "pressao_responder",
+        "atributo1": "cultura",
+        "atributo2": "apoio",
+        "valor2": "4",
+        "atributo3": "autonomia",
+        "valor3": "2"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-5",
+        "valor": "7",
+        "nome": "urgencias_sucessivas",
+        "atributo1": "demanda",
+        "atributo2": "apoio",
+        "valor2": "3",
+        "atributo3": "cultura",
+        "valor3": "1"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-6",
+        "valor": "7",
+        "nome": "bonus_desestimulador",
+        "atributo1": "cultura",
+        "atributo2": "autonomia",
+        "valor2": "2",
+        "atributo3": "demanda",
+        "valor3": "2"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-7",
+        "valor": "6",
+        "nome": "falta_documentacao",
+        "atributo1": "apoio",
+        "atributo2": "demanda",
+        "valor2": "3",
+        "atributo3": "autonomia",
+        "valor3": "2"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-8",
+        "valor": "6",
+        "nome": "senio_sobrecarregado",
+        "atributo1": "demanda",
+        "atributo2": "apoio",
+        "valor2": "4",
+        "atributo3": "autonomia",
+        "valor3": "1"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-9",
+        "valor": "5",
+        "nome": "tudo_e_prioridade",
+        "atributo1": "demanda",
+        "atributo2": "cultura",
+        "valor2": "3",
+        "atributo3": "apoio",
+        "valor3": "3"
+      }
+    },
+    {
+      "data": {
+        "atributo": "card-10",
+        "valor": "5",
+        "nome": "metas_sem_capacidade",
+        "atributo1": "cultura",
+        "atributo2": "demanda",
+        "valor2": "4",
+        "atributo3": "apoio",
+        "valor3": "2"
+      }
+    }
+  ]
+}
