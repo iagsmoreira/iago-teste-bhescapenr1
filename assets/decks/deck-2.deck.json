@@ -4,12 +4,22 @@
   "name": "Deck_Acao",
   "face": {
     "texturePath": "assets/textures/decks/deck-2/sheet-1.webp",
-    "columns": 4,
-    "rows": 2,
-    "cardCount": 8,
+    "columns": 5,
+    "rows": 4,
+    "cardCount": 20,
     "cardWidthPx": 717,
     "cardHeightPx": 1002
   },
+  "extraFaceSheets": [
+    {
+      "texturePath": "assets/textures/decks/deck-2/sheet-2.webp",
+      "columns": 2,
+      "rows": 2,
+      "cardCount": 4,
+      "cardWidthPx": 717,
+      "cardHeightPx": 1002
+    }
+  ],
   "uniqueBacks": false,
   "back": {
     "kind": "single",
@@ -48,7 +58,7 @@
       "cardId": "card-1",
       "label": "Aumento de prazo",
       "faceIndex": 0,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "demanda",
         "valor1": "2"
@@ -59,7 +69,7 @@
       "cardId": "card-2",
       "label": "Devolutiva das sugestões recebidas",
       "faceIndex": 1,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "cultura",
         "valor1": "1",
@@ -72,7 +82,7 @@
       "cardId": "card-3",
       "label": "Escuta",
       "faceIndex": 2,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "autonomia",
         "valor1": "1",
@@ -85,7 +95,7 @@
       "cardId": "card-4",
       "label": "Mapeamento de carga de trabalho",
       "faceIndex": 3,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "demanda",
         "valor1": "1",
@@ -98,7 +108,7 @@
       "cardId": "card-5",
       "label": "Mapeamento de processos",
       "faceIndex": 4,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "demanda",
         "valor1": "1",
@@ -111,7 +121,7 @@
       "cardId": "card-6",
       "label": "Observação do trabalho real",
       "faceIndex": 5,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "apoio",
         "valor1": "1",
@@ -124,7 +134,7 @@
       "cardId": "card-7",
       "label": "Pausa obrigatória",
       "faceIndex": 6,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "autonomia",
         "valor1": "2"
@@ -135,12 +145,208 @@
       "cardId": "card-8",
       "label": "Reunião de alinhamento",
       "faceIndex": 7,
-      "count": 3,
+      "count": 1,
       "data": {
         "atributo1": "apoio",
         "valor1": "2"
       },
       "assetPath": "assets/decks/deck-2/cards/007-reunia-o-de-alinhamento.webp"
+    },
+    {
+      "cardId": "card-9",
+      "label": "Aumento de equipe",
+      "faceIndex": 8,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "3"
+      },
+      "assetPath": "assets/decks/deck-2/cards/008-aumento-de-equipe.webp"
+    },
+    {
+      "cardId": "card-10",
+      "label": "Mudanca de escala",
+      "faceIndex": 9,
+      "count": 1,
+      "data": {
+        "atributo1": "autonomia",
+        "valor1": "3"
+      },
+      "assetPath": "assets/decks/deck-2/cards/009-mudanca-de-escala.webp"
+    },
+    {
+      "cardId": "card-11",
+      "label": "Participação dos trabalhadores nas decisões",
+      "faceIndex": 10,
+      "count": 1,
+      "data": {
+        "atributo1": "autonomia",
+        "valor1": "2",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/010-participac-a-o-dos-trabalhadores-nas-dec.webp"
+    },
+    {
+      "cardId": "card-12",
+      "label": "Playbook  base de conhecimento",
+      "faceIndex": 11,
+      "count": 1,
+      "data": {
+        "atributo1": "apoio",
+        "valor1": "2",
+        "atributo2": "demanda",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/011-playbook-base-de-conhecimento.webp"
+    },
+    {
+      "cardId": "card-13",
+      "label": "redesenho de processo",
+      "faceIndex": 12,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "2",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/012-redesenho-de-processo.webp"
+    },
+    {
+      "cardId": "card-14",
+      "label": "redistribuicao de tarefas",
+      "faceIndex": 13,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "2",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/013-redistribuicao-de-tarefas.webp"
+    },
+    {
+      "cardId": "card-15",
+      "label": "Redistribuição temporária de capacidade",
+      "faceIndex": 14,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "2",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/014-redistribuic-a-o-tempora-ria-de-capacida.webp"
+    },
+    {
+      "cardId": "card-16",
+      "label": "Reducao de Demandas",
+      "faceIndex": 15,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "3"
+      },
+      "assetPath": "assets/decks/deck-2/cards/015-reducao-de-demandas.webp"
+    },
+    {
+      "cardId": "card-17",
+      "label": "reducao de meta",
+      "faceIndex": 16,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "2",
+        "atributo2": "cultura",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/016-reducao-de-meta.webp"
+    },
+    {
+      "cardId": "card-18",
+      "label": "Repriorização",
+      "faceIndex": 17,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "2",
+        "atributo2": "autonomia",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/017-repriorizac-a-o.webp"
+    },
+    {
+      "cardId": "card-19",
+      "label": "reuniao com diretoria",
+      "faceIndex": 18,
+      "count": 1,
+      "data": {
+        "atributo1": "apoio",
+        "valor1": "2",
+        "atributo2": "cultura",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/018-reuniao-com-diretoria.webp"
+    },
+    {
+      "cardId": "card-20",
+      "label": "revisao de criterios de avaliacao de desempenho",
+      "faceIndex": 19,
+      "count": 1,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "3"
+      },
+      "assetPath": "assets/decks/deck-2/cards/019-revisao-de-criterios-de-avaliacao-de-des.webp"
+    },
+    {
+      "cardId": "card-21",
+      "label": "revisao de jornada",
+      "faceIndex": 20,
+      "count": 1,
+      "data": {
+        "atributo1": "autonomia",
+        "valor1": "2",
+        "atributo2": "cultura",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/020-revisao-de-jornada.webp"
+    },
+    {
+      "cardId": "card-22",
+      "label": "revisao de salarios e gratificacoes",
+      "faceIndex": 21,
+      "count": 1,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "3"
+      },
+      "assetPath": "assets/decks/deck-2/cards/021-revisao-de-salarios-e-gratificacoes.webp"
+    },
+    {
+      "cardId": "card-23",
+      "label": "revisao dos indicadores",
+      "faceIndex": 22,
+      "count": 1,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "2",
+        "atributo2": "demanda",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/022-revisao-dos-indicadores.webp"
+    },
+    {
+      "cardId": "card-24",
+      "label": "treinamento de liderancas",
+      "faceIndex": 23,
+      "count": 1,
+      "data": {
+        "atributo1": "apoio",
+        "valor1": "3"
+      },
+      "assetPath": "assets/decks/deck-2/cards/023-treinamento-de-liderancas.webp"
     }
   ]
 }
