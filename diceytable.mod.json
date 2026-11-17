@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.0",
+  "id": "iago-teste",
+  "name": "Iago Teste",
+  "version": "0.1.0",
+  "type": "game-pack",
+  "entry": {
+    "setup": "setup.json",
+    "script": "scripts/main.js"
+  },
+  "assets": [
+    "Cards/Ocorrencias/Bonus desestimulador.webp",
+    "Cards/Ocorrencias/Controle da Inatividade.webp",
+    "Cards/Ocorrencias/Escala Imprevisivel.webp",
+    "Cards/Ocorrencias/Falta de documentacao.webp",
+    "Cards/Ocorrencias/Pausas inviaveis.webp",
+    "Cards/Ocorrencias/Pressao pra responder a noite.webp",
+    "Cards/Ocorrencias/Urgencias sucessivas.webp",
+    "Cards/Ocorrencias/metas sem considerar capacidade.webp",
+    "Cards/Ocorrencias/sernio sobrecarregado.webp",
+    "Cards/Ocorrencias/tudo é prioridade.webp",
+    "Cards/Recursos/Aumento de prazo.webp",
+    "Cards/Recursos/Devolutiva das sugestões recebidas.webp",
+    "Cards/Recursos/Escuta.webp",
+    "Cards/Recursos/Mapeamento de carga de trabalho.webp",
+    "Cards/Recursos/Mapeamento de processos.webp",
+    "Cards/Recursos/Observação do trabalho real.webp",
+    "Cards/Recursos/Pausa obrigatória.webp",
+    "Cards/Recursos/Reunião de alinhamento.webp",
+    "Cards/Verso Invertido.webp",
+    "Cards/Verso.webp",
+    "assets/cards/iago-teste.cards.json",
+    "assets/decks/deck-1.deck.json",
+    "assets/decks/deck-2.deck.json",
+    "assets/textures/decks/deck-1/sheet-1.webp",
+    "assets/textures/decks/deck-2/sheet-1.webp",
+    "data/cardSchema.json"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "capabilities": {
+    "version": "1",
+    "allowed": [
+      "log"
+    ]
+  },
+  "license": "MIT",
+  "tags": [],
+  "credits": [
+    {
+      "id": "credit-f58d6167-61db-4ae6-a8ff-3a928bdce53f",
+      "paths": [
+        "Cards/Ocorrencias/Bonus desestimulador.webp",
+        "Cards/Ocorrencias/Controle da Inatividade.webp",
+        "Cards/Ocorrencias/Escala Imprevisivel.webp",
+        "Cards/Ocorrencias/Falta de documentacao.webp",
+        "Cards/Ocorrencias/Pausas inviaveis.webp",
+        "Cards/Ocorrencias/Pressao pra responder a noite.webp",
+        "Cards/Ocorrencias/Urgencias sucessivas.webp",
+        "Cards/Ocorrencias/metas sem considerar capacidade.webp",
+        "originals/Bonus desestimulador.jpg",
+        "originals/Controle da Inatividade.jpg",
+        "originals/Escala Imprevisivel.jpg",
+        "originals/Falta de documentacao.jpg",
+        "originals/Pausas inviaveis.jpg",
+        "originals/Pressao pra responder a noite.jpg",
+        "originals/Urgencias sucessivas.jpg",
+        "originals/metas sem considerar capacidade.jpg",
+        "originals/sernio sobrecarregado.jpg",
+        "originals/tudo é prioridade.jpg",
+        "Cards/Ocorrencias/sernio sobrecarregado.webp",
+        "Cards/Ocorrencias/tudo é prioridade.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-15T22:58:59.822Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-15T22:58:59.822Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-6599dc70-6921-4ab6-a82f-c6b2a2bec3dc",
+      "paths": [
+        "Cards/Recursos/Aumento de prazo.webp",
+        "Cards/Recursos/Devolutiva das sugestões recebidas.webp",
+        "Cards/Recursos/Escuta.webp",
+        "Cards/Recursos/Mapeamento de carga de trabalho.webp",
+        "Cards/Recursos/Mapeamento de processos.webp",
+        "Cards/Recursos/Observação do trabalho real.webp",
+        "Cards/Recursos/Pausa obrigatória.webp",
+        "Cards/Recursos/Reunião de alinhamento.webp",
+        "originals/Aumento de prazo.jpg",
+        "originals/Devolutiva das sugestões recebidas.jpg",
+        "originals/Escuta.jpg",
+        "originals/Mapeamento de carga de trabalho.jpg",
+        "originals/Mapeamento de processos.jpg",
+        "originals/Observação do trabalho real.jpg",
+        "originals/Pausa obrigatória.jpg",
+        "originals/Reunião de alinhamento.jpg"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-15T22:59:39.005Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-15T22:59:39.005Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-89796f36-3a83-4c7a-9d7e-832a08c9f0f9",
+      "paths": [
+        "Cards/Verso Invertido.webp",
+        "Cards/Verso.webp",
+        "originals/Verso Invertido.jpg",
+        "originals/Verso.jpg"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-15T23:03:26.531Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-15T23:03:26.531Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-fad87822-b0d3-467b-8a34-8b36879347fa",
+      "paths": [
+        "assets/decks/deck-1/cards/000-bonus-desestimulador.webp",
+        "assets/decks/deck-1/cards/001-controle-da-inatividade.webp",
+        "assets/decks/deck-1/cards/002-escala-imprevisivel.webp",
+        "assets/decks/deck-1/cards/003-falta-de-documentacao.webp",
+        "assets/decks/deck-1/cards/004-metas-sem-considerar-capacidade.webp",
+        "assets/decks/deck-1/cards/005-pausas-inviaveis.webp",
+        "assets/decks/deck-1/cards/006-pressao-pra-responder-a-noite.webp",
+        "assets/decks/deck-1/cards/007-sernio-sobrecarregado.webp",
+        "assets/decks/deck-1/cards/008-tudo-e-prioridade.webp",
+        "assets/decks/deck-1/cards/009-urgencias-sucessivas.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-16T23:26:30.194Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-16T23:26:30.194Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-9ef68b67-c923-4990-a46d-c5d7c296d4e7",
+      "paths": [
+        "assets/decks/deck-2/cards/000-aumento-de-prazo.webp",
+        "assets/decks/deck-2/cards/001-devolutiva-das-sugesto-es-recebidas.webp",
+        "assets/decks/deck-2/cards/002-escuta.webp",
+        "assets/decks/deck-2/cards/003-mapeamento-de-carga-de-trabalho.webp",
+        "assets/decks/deck-2/cards/004-mapeamento-de-processos.webp",
+        "assets/decks/deck-2/cards/005-observac-a-o-do-trabalho-real.webp",
+        "assets/decks/deck-2/cards/006-pausa-obrigato-ria.webp",
+        "assets/decks/deck-2/cards/007-reunia-o-de-alinhamento.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-16T23:33:23.370Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-16T23:33:23.370Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-e1d66b67-ad06-4f9e-a724-4a81da3f3b08",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-17T13:14:25.078Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-17T13:14:25.078Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-da1aedc0-c2ce-4bde-94d4-937ae8a5a58f",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-17T13:14:36.207Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-17T13:14:36.207Z",
+        "signedName": "Iago Moreira"
+      }
+    }
+  ],
+  "slug": "iago-teste",
+  "summary": "Teste do jogo iago BH Escape",
+  "players": {
+    "min": 1,
+    "max": 10
+  },
+  "screenshots": []
+}

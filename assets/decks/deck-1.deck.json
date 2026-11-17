@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "id": "deck-6b5e9f12-d2ca-4c00-9c5d-44856635593d",
+  "name": "Deck_Ocorrencia",
+  "face": {
+    "texturePath": "assets/textures/decks/deck-1/sheet-1.webp",
+    "columns": 5,
+    "rows": 2,
+    "cardCount": 10,
+    "cardWidthPx": 512,
+    "cardHeightPx": 716
+  },
+  "uniqueBacks": false,
+  "back": {
+    "kind": "single",
+    "texturePath": "thumbnails/originals/Verso.jpg.webp"
+  },
+  "sideways": false,
+  "art": {
+    "fit": "cover",
+    "bleedPx": 0,
+    "cornerRadius": 0,
+    "backgroundColor": "#ffffff"
+  },
+  "backIsHidden": false,
+  "cardFields": [
+    {
+      "key": "atributo1",
+      "type": "text"
+    },
+    {
+      "key": "valor1",
+      "type": "text"
+    },
+    {
+      "key": "atributo2",
+      "type": "text"
+    },
+    {
+      "key": "valor2",
+      "type": "text"
+    },
+    {
+      "key": "atributo3",
+      "type": "text"
+    },
+    {
+      "key": "valor3",
+      "type": "text"
+    }
+  ],
+  "deckFields": [],
+  "data": {},
+  "cards": [
+    {
+      "cardId": "card-1",
+      "label": "Bonus desestimulador",
+      "faceIndex": 0,
+      "count": 1,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "7",
+        "atributo2": "autonomia",
+        "valor2": "2",
+        "atributo3": "demanda",
+        "valor3": "2"
+      },
+      "assetPath": "assets/decks/deck-1/cards/000-bonus-desestimulador.webp"
+    },
+    {
+      "cardId": "card-2",
+      "label": "Controle da Inatividade",
+      "faceIndex": 1,
+      "count": 1,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "5",
+        "atributo2": "apoio",
+        "valor2": "3",
+        "atributo3": "cultura",
+        "valor3": "2"
+      },
+      "assetPath": "assets/decks/deck-1/cards/001-controle-da-inatividade.webp"
+    },
+    {
+      "cardId": "card-3",
+      "label": "Escala Imprevisivel",
+      "faceIndex": 2,
+      "count": 1,
+      "data": {
+        "atributo1": "autonomia",
+        "valor1": "6",
+        "atributo2": "apoio",
+        "valor2": "3",
+        "atributo3": "cultura",
+        "valor3": "2"
+      },
+      "assetPath": "assets/decks/deck-1/cards/002-escala-imprevisivel.webp"
+    },
+    {
+      "cardId": "card-4",
+      "label": "Falta de documentacao",
+      "faceIndex": 3,
+      "count": 1,
+      "data": {
+        "atributo1": "apoio",
+        "valor1": "6",
+        "atributo2": "demanda",
+        "valor2": "3",
+        "atributo3": "autonomia",
+        "valor3": "2"
+      },
+      "assetPath": "assets/decks/deck-1/cards/003-falta-de-documentacao.webp"
+    },
+    {
+      "cardId": "card-5",
+      "label": "metas sem considerar capacidade",
+      "faceIndex": 4,
+      "count": 1,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "5",
+        "atributo2": "demanda",
+        "valor2": "4",
+        "atributo3": "apoio",
+        "valor3": "2"
+      },
+      "assetPath": "assets/decks/deck-1/cards/004-metas-sem-considerar-capacidade.webp"
+    },
+    {
+      "cardId": "card-6",
+      "label": "Pausas inviaveis",
+      "faceIndex": 5,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "6",
+        "atributo2": "autonomia",
+        "valor2": "3",
+        "atributo3": "apoio",
+        "valor3": "2"
+      },
+      "assetPath": "assets/decks/deck-1/cards/005-pausas-inviaveis.webp"
+    },
+    {
+      "cardId": "card-7",
+      "label": "Pressao pra responder a noite",
+      "faceIndex": 6,
+      "count": 1,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "5",
+        "atributo2": "apoio",
+        "valor2": "4",
+        "atributo3": "autonomia",
+        "valor3": "2"
+      },
+      "assetPath": "assets/decks/deck-1/cards/006-pressao-pra-responder-a-noite.webp"
+    },
+    {
+      "cardId": "card-8",
+      "label": "sernio sobrecarregado",
+      "faceIndex": 7,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "6",
+        "atributo2": "apoio",
+        "valor2": "4",
+        "atributo3": "autonomia",
+        "valor3": "1"
+      },
+      "assetPath": "assets/decks/deck-1/cards/007-sernio-sobrecarregado.webp"
+    },
+    {
+      "cardId": "card-9",
+      "label": "tudo é prioridade",
+      "faceIndex": 8,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "5",
+        "atributo2": "cultura",
+        "valor2": "3",
+        "atributo3": "apoio",
+        "valor3": "3"
+      },
+      "assetPath": "assets/decks/deck-1/cards/008-tudo-e-prioridade.webp"
+    },
+    {
+      "cardId": "card-10",
+      "label": "Urgencias sucessivas",
+      "faceIndex": 9,
+      "count": 1,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "7",
+        "atributo2": "apoio",
+        "valor2": "3",
+        "atributo3": "cultura",
+        "valor3": "1"
+      },
+      "assetPath": "assets/decks/deck-1/cards/009-urgencias-sucessivas.webp"
+    }
+  ]
+}

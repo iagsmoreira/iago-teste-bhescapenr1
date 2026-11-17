@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "deck-4a20075f-68f9-47b2-8b3d-a597647b25be",
+  "name": "Deck_Acao",
+  "face": {
+    "texturePath": "assets/textures/decks/deck-2/sheet-1.webp",
+    "columns": 4,
+    "rows": 2,
+    "cardCount": 8,
+    "cardWidthPx": 512,
+    "cardHeightPx": 716
+  },
+  "uniqueBacks": false,
+  "back": {
+    "kind": "single",
+    "texturePath": "thumbnails/originals/Verso Invertido.jpg.webp"
+  },
+  "sideways": false,
+  "art": {
+    "fit": "cover",
+    "bleedPx": 0,
+    "cornerRadius": 0,
+    "backgroundColor": "#ffffff"
+  },
+  "backIsHidden": false,
+  "cardFields": [
+    {
+      "key": "atributo1",
+      "type": "text"
+    },
+    {
+      "key": "valor1",
+      "type": "text"
+    },
+    {
+      "key": "atributo2",
+      "type": "text"
+    },
+    {
+      "key": "valor2",
+      "type": "text"
+    }
+  ],
+  "deckFields": [],
+  "data": {},
+  "cards": [
+    {
+      "cardId": "card-1",
+      "label": "Aumento de prazo",
+      "faceIndex": 0,
+      "count": 3,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "2"
+      },
+      "assetPath": "assets/decks/deck-2/cards/000-aumento-de-prazo.webp"
+    },
+    {
+      "cardId": "card-2",
+      "label": "Devolutiva das sugestões recebidas",
+      "faceIndex": 1,
+      "count": 3,
+      "data": {
+        "atributo1": "cultura",
+        "valor1": "1",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/001-devolutiva-das-sugesto-es-recebidas.webp"
+    },
+    {
+      "cardId": "card-3",
+      "label": "Escuta",
+      "faceIndex": 2,
+      "count": 3,
+      "data": {
+        "atributo1": "autonomia",
+        "valor1": "1",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/002-escuta.webp"
+    },
+    {
+      "cardId": "card-4",
+      "label": "Mapeamento de carga de trabalho",
+      "faceIndex": 3,
+      "count": 3,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "1",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/003-mapeamento-de-carga-de-trabalho.webp"
+    },
+    {
+      "cardId": "card-5",
+      "label": "Mapeamento de processos",
+      "faceIndex": 4,
+      "count": 3,
+      "data": {
+        "atributo1": "demanda",
+        "valor1": "1",
+        "atributo2": "apoio",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/004-mapeamento-de-processos.webp"
+    },
+    {
+      "cardId": "card-6",
+      "label": "Observação do trabalho real",
+      "faceIndex": 5,
+      "count": 3,
+      "data": {
+        "atributo1": "apoio",
+        "valor1": "1",
+        "atributo2": "cultura",
+        "valor2": "1"
+      },
+      "assetPath": "assets/decks/deck-2/cards/005-observac-a-o-do-trabalho-real.webp"
+    },
+    {
+      "cardId": "card-7",
+      "label": "Pausa obrigatória",
+      "faceIndex": 6,
+      "count": 3,
+      "data": {
+        "atributo1": "autonomia",
+        "valor1": "2"
+      },
+      "assetPath": "assets/decks/deck-2/cards/006-pausa-obrigato-ria.webp"
+    },
+    {
+      "cardId": "card-8",
+      "label": "Reunião de alinhamento",
+      "faceIndex": 7,
+      "count": 3,
+      "data": {
+        "atributo1": "apoio",
+        "valor1": "2"
+      },
+      "assetPath": "assets/decks/deck-2/cards/007-reunia-o-de-alinhamento.webp"
+    }
+  ]
+}
