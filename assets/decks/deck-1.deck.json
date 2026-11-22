@@ -56,7 +56,7 @@
       "cardId": "card-1",
       "label": "Bonus desestimulador",
       "faceIndex": 0,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "cultura",
         "valor1": "7",
@@ -71,7 +71,7 @@
       "cardId": "card-2",
       "label": "Controle da Inatividade",
       "faceIndex": 1,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "cultura",
         "valor1": "5",
@@ -86,7 +86,7 @@
       "cardId": "card-3",
       "label": "Escala Imprevisivel",
       "faceIndex": 2,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "autonomia",
         "valor1": "6",
@@ -101,7 +101,7 @@
       "cardId": "card-4",
       "label": "Falta de documentacao",
       "faceIndex": 3,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "apoio",
         "valor1": "6",
@@ -116,7 +116,7 @@
       "cardId": "card-5",
       "label": "metas sem considerar capacidade",
       "faceIndex": 4,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "cultura",
         "valor1": "5",
@@ -131,7 +131,7 @@
       "cardId": "card-6",
       "label": "Pausas inviaveis",
       "faceIndex": 5,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "demanda",
         "valor1": "6",
@@ -146,7 +146,7 @@
       "cardId": "card-7",
       "label": "Pressao pra responder a noite",
       "faceIndex": 6,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "cultura",
         "valor1": "5",
@@ -161,7 +161,7 @@
       "cardId": "card-8",
       "label": "sernio sobrecarregado",
       "faceIndex": 7,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "demanda",
         "valor1": "6",
@@ -176,7 +176,7 @@
       "cardId": "card-9",
       "label": "tudo é prioridade",
       "faceIndex": 8,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "demanda",
         "valor1": "5",
@@ -191,7 +191,7 @@
       "cardId": "card-10",
       "label": "Urgencias sucessivas",
       "faceIndex": 9,
-      "count": 1,
+      "count": 2,
       "data": {
         "atributo1": "demanda",
         "valor1": "7",
