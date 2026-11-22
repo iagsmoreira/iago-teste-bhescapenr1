@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "iago-teste",
   "name": "Iago Teste",
-  "version": "0.1.253",
+  "version": "0.1.254",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
