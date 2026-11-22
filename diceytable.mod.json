@@ -29,6 +29,7 @@
     "Cards/Recursos/Reunião de alinhamento.webp",
     "Cards/Verso Invertido.webp",
     "Cards/Verso.webp",
+    "TabuleiroNR1_2x.webp",
     "assets/cards/iago-teste.cards.json",
     "assets/decks/deck-1.deck.json",
     "assets/decks/deck-2.deck.json",
@@ -38,7 +39,9 @@
     "data/cardSchema.json",
     "media/cover-thumb.webp",
     "media/cover.webp",
-    "media/screenshot-0.webp"
+    "media/screenshot-0.webp",
+    "models/tabuleironr1-board.glb",
+    "textures/TabuleiroNR1_2x.webp"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
