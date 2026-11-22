@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "iago-teste",
   "name": "Iago Teste",
-  "version": "0.1.253",
+  "version": "0.1.254",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -29,6 +29,7 @@
     "Cards/Recursos/Reunião de alinhamento.webp",
     "Cards/Verso Invertido.webp",
     "Cards/Verso.webp",
+    "TabuleiroNR1_2x.webp",
     "assets/cards/iago-teste.cards.json",
     "assets/decks/deck-1.deck.json",
     "assets/decks/deck-2.deck.json",
@@ -38,7 +39,9 @@
     "data/cardSchema.json",
     "media/cover-thumb.webp",
     "media/cover.webp",
-    "media/screenshot-0.webp"
+    "media/screenshot-0.webp",
+    "models/tabuleironr1-board.glb",
+    "textures/TabuleiroNR1_2x.webp"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
@@ -222,6 +225,34 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-11-17T16:44:00.534Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-6dff9edd-e394-42eb-a807-0ed862a9cf90",
+      "paths": [
+        "TabuleiroNR1_2x.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-22T20:09:49.975Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-22T20:09:49.975Z",
+        "signedName": "Iago Moreira"
+      }
+    },
+    {
+      "id": "credit-0122b027-527b-4467-ac3a-40aebad228ec",
+      "paths": [
+        "models/tabuleironr1-board.glb",
+        "originals/TabuleiroNR1_2x.png",
+        "textures/TabuleiroNR1_2x.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-11-22T20:10:45.227Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-11-22T20:10:45.227Z",
         "signedName": "Iago Moreira"
       }
     }

@@ -2,6 +2,18 @@
   "version": 1,
   "rendererVersion": 1,
   "entries": {
+    "@materials/mat-86541d8d-7fb3-4ed6-a81b-eff78c82881f": {
+      "inputHash": "da9578b4bbcf3b48",
+      "file": "thumbnails/@materials/mat-86541d8d-7fb3-4ed6-a81b-eff78c82881f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/tabuleironr1-board": {
+      "inputHash": "56aed00561c7c5a8",
+      "file": "thumbnails/@prefabs/tabuleironr1-board.webp",
+      "width": 256,
+      "height": 256
+    },
     "Cards/Ocorrencias/Bonus desestimulador.webp": {
       "inputHash": "515d9411904f90b5",
       "file": "thumbnails/Cards/Ocorrencias/Bonus desestimulador.webp.webp",
@@ -122,6 +134,12 @@
       "width": 174,
       "height": 256
     },
+    "TabuleiroNR1_2x.webp": {
+      "inputHash": "c388b29f6b983b4e",
+      "file": "thumbnails/TabuleiroNR1_2x.webp.webp",
+      "width": 256,
+      "height": 171
+    },
     "assets/decks/deck-1.deck.json": {
       "inputHash": "ea9025d04c1d16b1",
       "file": "thumbnails/assets/decks/deck-1.deck.json.webp",
@@ -169,6 +187,12 @@
       "file": "thumbnails/media/screenshot-0.webp.webp",
       "width": 256,
       "height": 144
+    },
+    "models/tabuleironr1-board.glb": {
+      "inputHash": "250ad211b08f512b",
+      "file": "thumbnails/models/tabuleironr1-board.glb.webp",
+      "width": 256,
+      "height": 256
     },
     "originals/Aumento de prazo.jpg": {
       "inputHash": "d825f915b48c982a",
@@ -254,6 +278,12 @@
       "width": 174,
       "height": 256
     },
+    "originals/TabuleiroNR1_2x.png": {
+      "inputHash": "d904ba6b4c90ab23",
+      "file": "thumbnails/originals/TabuleiroNR1_2x.png.webp",
+      "width": 256,
+      "height": 171
+    },
     "originals/Urgencias sucessivas.jpg": {
       "inputHash": "7580099521082591",
       "file": "thumbnails/originals/Urgencias sucessivas.jpg.webp",
@@ -289,6 +319,12 @@
       "file": "thumbnails/originals/tudo é prioridade.jpg.webp",
       "width": 171,
       "height": 256
+    },
+    "textures/TabuleiroNR1_2x.webp": {
+      "inputHash": "c388b29f6b983b4e",
+      "file": "thumbnails/textures/TabuleiroNR1_2x.webp.webp",
+      "width": 256,
+      "height": 171
     }
   }
 }
